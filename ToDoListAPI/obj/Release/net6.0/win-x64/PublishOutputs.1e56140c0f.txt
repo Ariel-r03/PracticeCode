@@ -1,0 +1,13 @@
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ToDoListAPI.exe
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ToDoListAPI.dll
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ToDoListAPI.deps.json
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ToDoListAPI.runtimeconfig.json
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ToDoListAPI.pdb
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\System.Data.SqlClient.dll
+C:\Ariel docs\Backend\ToDoListAPI\obj\Release\net6.0\win-x64\PubTmp\Out\sni.dll
